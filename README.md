@@ -76,6 +76,8 @@ graph LR
 *   **⛺ Camping Tent** (Category: Outdoors | Price: $120.00 | Stock: 0) — *Spacious waterproof dome tent.*
 *   **🪑 Ergonomic Office Chair** (Category: Furniture | Price: $149.50 | Stock: 0) — *Adjustable mesh office chair with lumbar support for long working hours.*
 
+![Inventory Agent Dashboard](images/Screenshot1.png)
+
 ---
 
 ### Request: 
@@ -93,5 +95,7 @@ graph LR
 *   **🪥 Electric Toothbrush** (Category: Health & Beauty | Price: $49.99 | Stock: 30)
 *   **☕ Ceramic Coffee Mug Set** (Category: Home | Price: $22.50 | Stock: 100)
 *   **👛 Leather Wallet** (Category: Accessories | Price: $35.00 | Stock: 50)
+
+![Inventory Agent Dashboard](images/Screenshot_2.png)
 
 ## Created by Shon Ferrao
